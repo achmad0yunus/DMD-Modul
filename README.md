@@ -30,7 +30,7 @@ penjelasan pin pada konektor
 
 Penjelasan :
 
-Data akan dikirm dari arduino  secara  serial melalui soket HUB1.2 kemudian diterima oleh IC serial to paralel 74595.  Jika ada tambahan modul akan diambil dari keluaran 74595 yg terakhir yg dihubungkan ke soket X2-OUT. Untuk supply arus diberikan oleh ic driver penguat daya VT1,VT2,..dst. Untuk memilih kolom mana yg menyala diaktifkan oleh IC multiplexer.
+Data akan dikirm dari arduino  secara  serial melalui soket HUB12 kemudian diterima oleh IC serial to paralel 74595.  Jika ada tambahan modul akan diambil dari keluaran 74595 yg terakhir yg dihubungkan ke soket X2-OUT. Untuk supply arus diberikan oleh ic driver penguat daya VT1,VT2,..dst. Untuk memilih kolom mana yg menyala diaktifkan oleh IC multiplexer.
 
 
 ## 5. Rangkain Modul P10 lebih dari 1 (Cascade )
